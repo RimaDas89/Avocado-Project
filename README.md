@@ -7,15 +7,16 @@ Starting in 2013, the table below reflects an expanded, multi-outlet retail data
 The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. green skins) are not included in this table.
 <br>
 Some relevant columns in the dataset:
-•	Date - The date of the observation
-•	AveragePrice - the average price of a single avocado
-•	type - conventional or organic
-•	year - the year
-•	Region - the city or region of the observation
-•	Total Volume - Total number of avocados sold
-•	4046 - Total number of avocados with PLU 4046 sold
-•	4225 - Total number of avocados with PLU 4225 sold
-•	4770 - Total number of avocados with PLU 4770 sold
+
+1.	Date - The date of the observation
+2.	AveragePrice - the average price of a single avocado
+3.	type - conventional or organic
+4. 	year - the year
+5.	Region - the city or region of the observation
+6.	Total Volume - Total number of avocados sold
+7.	4046 - Total number of avocados with PLU 4046 sold
+8.	4225 - Total number of avocados with PLU 4225 sold
+9.	4770 - Total number of avocados with PLU 4770 sold
 
 ### Inspiration /Label 
 The dataset can be seen in two angles to find the region and find the average price .
