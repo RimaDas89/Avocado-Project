@@ -1,4 +1,5 @@
 # Avocado-Project
+![dataset-cover](https://github.com/RimaDas89/Avocado-Project/assets/121311261/92ecaa28-a445-419f-80b0-9b8ce75b729f)
 
 ### Project Description:
 This data was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV. 
